@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Will. 👋<br><br>Full Stack Software Engineer focused on building intuitive user experiences and scalable systems.<br><br>🚀 What I'm Working On<br>♦ Building authentication systems and developer tooling<br>♦ Creating clean APIs and backend architecture<br>♦ Improving developer experience through thoughtful design<br><br>🧠 Featured Project<br><br>SolidAuth:<br>Open-source authentication library for the SolidStart ecosystem, used by developers worldwide.<br><br>🛠️ Tech Stack<br>TypeScript • React • Node.js • PostgreSQL • Authentication & Authorization<br><br>📫 Let's Connect<br> LinkedIn: https://linkedin.com/in/williamwatanabe
+Hi, I'm Will. 👋<br><br>Full Stack Software Engineer focused on building intuitive user experiences and scalable systems.<br><br>🚀 What I'm Working On<br>♦ Building authentication systems and developer tooling<br>♦ Creating clean APIs and backend architecture<br>♦ Improving developer experience through thoughtful design<br><br>🧠 Featured Project SolidAuth:<br>Open-source authentication library for the SolidStart ecosystem, used by developers worldwide.<br><br>🛠️ Tech Stack<br>TypeScript • React • Node.js • PostgreSQL • Authentication & Authorization<br><br>📫 Let's Connect<br> LinkedIn: https://linkedin.com/in/williamwatanabe
 
 
 ## 🌐 Socials:
