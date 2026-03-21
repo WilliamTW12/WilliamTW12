@@ -13,6 +13,6 @@ Hi, I'm Will. 👋<br><br>Full Stack Software Engineer focused on building intui
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamTW12&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WilliamTW12&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
