@@ -35,5 +35,5 @@ Full-stack authentication library built from 0 → 1 with a team of 4 engineers.
 
 # 📫 Let's Connect:
 
-LinkedIn: https://linkedin.com/in/williamwatanabe
+**LinkedIn**: https://linkedin.com/in/williamwatanabe
 
