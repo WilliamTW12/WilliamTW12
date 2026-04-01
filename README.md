@@ -1,4 +1,4 @@
-# 💫 Hi, I'm William! 👋 <br>
+# ✨ Hi, I'm William! 👋 <br>
 Full Stack Software Engineer focused on building intuitive user experiences and scalable systems. <br><br>
 
 
