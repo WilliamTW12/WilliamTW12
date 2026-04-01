@@ -1,4 +1,4 @@
-# ✨ Hi, I'm William! 👋 <br>
+# ✨ Hi, I'm William! 🙋🏻‍♂️ <br>
 Full Stack Software Engineer focused on building intuitive user experiences and scalable systems. <br><br>
 
 
@@ -11,7 +11,7 @@ Full-stack authentication library built from 0 → 1 with a team of 4 engineers.
 - 🔐 Designed and implemented secure authentication (hashing, sessions, cookies)
 - 🧩 Built reusable frontend components for seamless integration
 - ⚡ Developed clean, scalable APIs for authentication workflows
-- 🌍 Used by developers worldwide to standardize auth implementation
+- 🌍 Used by developers worldwide to standardize auth implementation <br>
 
 ***Tech:*** TypeScript, React, Node.js, PostgreSQL, SolidJS, SolidStartJS <br><br>
 
