@@ -11,7 +11,7 @@ Full-stack authentication library built from 0 → 1 with a team of 4 engineers.
 - 🔐 Designed and implemented secure authentication (hashing, sessions, cookies)
 - 🧩 Built reusable frontend components for seamless integration
 - ⚡ Developed clean, scalable APIs for authentication workflows
-- 🌍 Used by developers worldwide to standardize auth implementation <br>
+- 🌍 Used by developers worldwide to standardize auth implementation <br><br>
 
 ***Tech:*** TypeScript, React, Node.js, PostgreSQL, SolidJS, SolidStartJS <br><br>
 
